@@ -2,7 +2,7 @@ import pandas as pd
 from tqdm.auto import tqdm 
 
 
-zipcode_interconnector = pd.read_csv('connections.csv' , header = 0, index_col = 0, sep = ',')
+zipcode_interconnector = pd.read_csv('zipcode_interconnector_connection.csv' , header = 0, index_col = 0, sep = ',')
 
 zipcode_coordinates = pd.read_csv('filtered_storageSystems_mapped.csv', header = 0 ,index_col = None, sep = ',')
 
