@@ -2,7 +2,7 @@ import pandas as pd
 from tqdm.auto import tqdm
 
 
-matrixA = pd.read_csv('matrixA_indirect.csv', header = 0 , index_col = 0 , sep = ',')
+matrixA = pd.read_csv('matrixA.csv', header = 0 , index_col = 0 , sep = ',')
 
 
 rowA = list(matrixA.index)
