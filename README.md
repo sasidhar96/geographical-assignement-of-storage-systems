@@ -1,7 +1,8 @@
 # integrated-project
 Geographical mapping of storage systems to substations
 
-##Motivation ##
+Motivation 
+Markup :  ============= 
 There is a tremendous shift to renewable power generation which leads to a lot of storage systems connected to the grid , since all the storage systems reach its peak production mostly at the same time feeding the energy back to the grid may cause grid instability. Hence the primary task was to see the storage systems affect which substation, directly or indirectly, that can help to troubleshoot which storage system is causing the imbalance. The end result has to be formulated in a matrix. Matrix will be useful for performing the load flow studies and helps the operator analyze which interconnector has most storage connections and the contingency planning can be made accordingly.
 
 ##Steps
