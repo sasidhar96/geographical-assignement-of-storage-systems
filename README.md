@@ -22,5 +22,10 @@ These atrices are used for load flow studies
 * zipcode-interconnector-connections will decide the storage systems that have an effect on the transmission
 line interconnector 
 
+## Conclusion
+
+The relations are formulated in a matrx file that is used for load flow studies. THe coordinates are also converted to a .kml file that can be viewed in google earth. 
+
+
 
 
